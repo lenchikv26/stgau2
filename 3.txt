@@ -1,0 +1,82 @@
+<html>
+  <head>
+    <title>Столовая СТГАУ</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link" href=""><img src="https://i.imgur.com/b949YzV.png" width="150px" height="150px"/></a>
+      <a class="link-header" href="https://stgau.ru/">Главная</a>
+      <a class="link-header" href="">О нас
+      <a class="link-header" href="">Меню
+    </header>
+    <main>
+      <h1>Меню</h1>
+      <p class="text-big"><b></b></p>
+      <p class="text-big"><b>
+        </b></p>
+       <table border="0" cellpadding="7" cellspacing="1"> 
+  <tbody> 
+    <tr><td> Гнездо мясное 
+        <br />
+       <a href="https://old.stgau.ru/din/dishes/images/small/1.JPG" rel="lightbox[roadtrip]" title="Гнездо мясное" ><img src="https://old.stgau.ru/din/dishes/images/small/1.JPG" border="0"  /></a> 
+        <br />
+       
+        <br />
+       </td> <td> Грибы запеченные с сыром 
+        <br />
+       <a href="https://old.stgau.ru/din/dishes/images/small/2.JPG" rel="lightbox[roadtrip]" title="Грибы запеченные с сыром" ><img src="https://old.stgau.ru/din/dishes/images/small/2.JPG" border="0"  /></a> 
+        <br />
+       
+        <br />
+       </td></tr>
+   
+    <tr><td> Кебаб из говядины
+        <br />
+       <a href="https://old.stgau.ru/din/dishes/images/small/3.JPG" rel="lightbox[roadtrip]" title="Кебаб из говядины" ><img src="https://old.stgau.ru/din/dishes/images/small/3.JPG" border="0"  /></a> 
+        <br />
+       
+        <br />
+       </td> <td> Кекс с изюмом 
+        <br />
+        <a href="https://old.stgau.ru/din/dishes/images/small/4.JPG" rel="lightbox[roadtrip]" title="Кекс с изюмом" ><img src="https://old.stgau.ru/din/dishes/images/small/4.JPG" border="0"  /></a> 
+        <br />
+       
+        <br />
+       </td></tr>
+   
+    <tr><td> Корзиночка со 
+        <br />
+       взбитыми сливками 
+        <br />
+       <a href="https://old.stgau.ru/din/dishes/images/small/5.JPG" rel="lightbox[roadtrip]" title="Корзиночка со взбитыми сливками" ><img src="https://old.stgau.ru/din/dishes/images/small/5.JPG" border="0"  /></a> 
+        <br />
+       
+        <br />
+       </td> <td>Котлета Ассорти 
+        <br />
+       <a href="https://old.stgau.ru/din/dishes/images/small/6.JPG" rel="lightbox[roadtrip]" title="Котлета Ассорти" ><img src="https://old.stgau.ru/din/dishes/images/small/6.JPG" border="0"  /></a> 
+        <br />
+       </td></tr>
+   
+    <tr><td>Котлета по-киевски 
+        <br />
+       <a href="https://old.stgau.ru/din/dishes/images/small/7.JPG" rel="lightbox[roadtrip]" title="Котлета по-киевски" ><img src="https://old.stgau.ru/din/dishes/images/small/7.JPG" border="0"  /></a></td> 
+	   <td>Мясное ассорти 
+        <br />
+       <a href="https://old.stgau.ru/din/dishes/images/small/8.JPG" rel="lightbox[roadtrip]" title="Мясное ассорти" ><img src="https://old.stgau.ru/din/dishes/images/small/8.JPG" border="0"  /></a></td></tr>
+   
+
+        <br />
+       <a href="/din/dishes/images/9.JPG" rel="lightbox[roadtrip]" title="Овощи" ><img src="/din/dishes/images/small/9.JPG" border="0"  /></a>
+   </tbody>
+ </table>
+    </main>
+    <footer>
+
+      <a class="social" href="https://vk.com/stgau1930"><img src="https://i.imgur.com/ZhlVv6I.png" width="100px" height="100px"/></a>
+      <a class="social" href="https://t.me/agrarian_university1930"><img src="https://i.imgur.com/0uaDMJX.png" width="100px" height="100px"/></a>
+      <a class="social" href="https://www.youtube.com/user/stgau26"><img src="https://i.imgur.com/hDaQEPL.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
